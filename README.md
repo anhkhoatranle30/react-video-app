@@ -1,3 +1,22 @@
+# Video Application
+
+## Description
+
+I made this website in order to learn about how to render list in ReactJS, call API. It is a dummy version of Youtube :)
+
+## Production
+
+You can visit this app at : https://khoa-react-video.netlify.app/
+
+## App instruction
+
+Just type in any word the app will find that video for you
+
+## What's in this app
+
+* ReactJS
+* Youtube API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
